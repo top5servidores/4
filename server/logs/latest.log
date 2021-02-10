@@ -1,0 +1,340 @@
+[19:48:30] [main/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[19:48:30] [main/WARN]: Ambiguity between arguments [teleport, destination] and [teleport, targets] with inputs: [Player, 0123, @e, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:48:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:48:30] [main/WARN]: Ambiguity between arguments [teleport, location] and [teleport, targets] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:48:30] [main/WARN]: Ambiguity between arguments [teleport, targets] and [teleport, destination] with inputs: [Player, 0123, dd12be42-52a9-4a91-a8a1-11c01849e498]
+[19:48:30] [main/WARN]: Ambiguity between arguments [teleport, targets, location] and [teleport, targets, destination] with inputs: [0.1 -0.5 .9, 0 0 0]
+[19:48:30] [main/INFO]: Reloading ResourceManager: Default
+[19:48:32] [Worker-Main-8/INFO]: Loaded 7 recipes
+[19:48:32] [Worker-Main-8/INFO]: Loaded 1025 advancements
+[19:48:34] [Server thread/INFO]: Starting minecraft server version 21w06a
+[19:48:34] [Server thread/INFO]: Loading properties
+[19:48:34] [Server thread/INFO]: Default game type: SURVIVAL
+[19:48:34] [Server thread/INFO]: Generating keypair
+[19:48:34] [Server thread/INFO]: Starting Minecraft server on *:25565
+[19:48:34] [Server thread/INFO]: Using epoll channel type
+[19:48:34] [Server thread/INFO]: Preparing level "world"
+[19:48:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[19:48:41] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:48:41] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[19:48:42] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:48:42] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:48:43] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:48:43] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[19:48:44] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[19:48:44] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[19:48:45] [Worker-Main-6/INFO]: Preparing spawn area: 1%
+[19:48:45] [Worker-Main-10/INFO]: Preparing spawn area: 2%
+[19:48:46] [Worker-Main-8/INFO]: Preparing spawn area: 3%
+[19:48:46] [Worker-Main-7/INFO]: Preparing spawn area: 3%
+[19:48:47] [Worker-Main-7/INFO]: Preparing spawn area: 3%
+[19:48:47] [Worker-Main-7/INFO]: Preparing spawn area: 6%
+[19:48:48] [Worker-Main-7/INFO]: Preparing spawn area: 6%
+[19:48:48] [Worker-Main-6/INFO]: Preparing spawn area: 9%
+[19:48:49] [Worker-Main-10/INFO]: Preparing spawn area: 10%
+[19:48:49] [Worker-Main-9/INFO]: Preparing spawn area: 10%
+[19:48:50] [Worker-Main-6/INFO]: Preparing spawn area: 10%
+[19:48:50] [Worker-Main-9/INFO]: Preparing spawn area: 14%
+[19:48:51] [Worker-Main-10/INFO]: Preparing spawn area: 17%
+[19:48:51] [Worker-Main-7/INFO]: Preparing spawn area: 17%
+[19:48:52] [Worker-Main-10/INFO]: Preparing spawn area: 18%
+[19:48:52] [Worker-Main-10/INFO]: Preparing spawn area: 21%
+[19:48:53] [Worker-Main-10/INFO]: Preparing spawn area: 24%
+[19:48:53] [Worker-Main-6/INFO]: Preparing spawn area: 25%
+[19:48:54] [Worker-Main-10/INFO]: Preparing spawn area: 26%
+[19:48:54] [Worker-Main-7/INFO]: Preparing spawn area: 26%
+[19:48:55] [Worker-Main-10/INFO]: Preparing spawn area: 26%
+[19:48:55] [Worker-Main-9/INFO]: Preparing spawn area: 31%
+[19:48:56] [Worker-Main-6/INFO]: Preparing spawn area: 33%
+[19:48:56] [Worker-Main-9/INFO]: Preparing spawn area: 34%
+[19:48:57] [Worker-Main-8/INFO]: Preparing spawn area: 35%
+[19:48:57] [Worker-Main-8/INFO]: Preparing spawn area: 37%
+[19:48:58] [Worker-Main-7/INFO]: Preparing spawn area: 37%
+[19:48:58] [Worker-Main-10/INFO]: Preparing spawn area: 37%
+[19:48:59] [Worker-Main-7/INFO]: Preparing spawn area: 42%
+[19:48:59] [Worker-Main-10/INFO]: Preparing spawn area: 44%
+[19:49:00] [Worker-Main-10/INFO]: Preparing spawn area: 45%
+[19:49:00] [Worker-Main-7/INFO]: Preparing spawn area: 47%
+[19:49:01] [Worker-Main-10/INFO]: Preparing spawn area: 48%
+[19:49:01] [Worker-Main-8/INFO]: Preparing spawn area: 50%
+[19:49:02] [Worker-Main-7/INFO]: Preparing spawn area: 52%
+[19:49:02] [Worker-Main-9/INFO]: Preparing spawn area: 54%
+[19:49:03] [Worker-Main-8/INFO]: Preparing spawn area: 55%
+[19:49:03] [Worker-Main-9/INFO]: Preparing spawn area: 56%
+[19:49:04] [Worker-Main-10/INFO]: Preparing spawn area: 58%
+[19:49:04] [Worker-Main-7/INFO]: Preparing spawn area: 59%
+[19:49:05] [Worker-Main-10/INFO]: Preparing spawn area: 60%
+[19:49:05] [Worker-Main-6/INFO]: Preparing spawn area: 64%
+[19:49:06] [Worker-Main-10/INFO]: Preparing spawn area: 65%
+[19:49:06] [Worker-Main-7/INFO]: Preparing spawn area: 70%
+[19:49:07] [Worker-Main-6/INFO]: Preparing spawn area: 72%
+[19:49:07] [Worker-Main-6/INFO]: Preparing spawn area: 76%
+[19:49:08] [Worker-Main-8/INFO]: Preparing spawn area: 78%
+[19:49:08] [Worker-Main-8/INFO]: Preparing spawn area: 80%
+[19:49:09] [Worker-Main-10/INFO]: Preparing spawn area: 86%
+[19:49:09] [Worker-Main-8/INFO]: Preparing spawn area: 89%
+[19:49:10] [Worker-Main-7/INFO]: Preparing spawn area: 94%
+[19:49:10] [Worker-Main-7/INFO]: Preparing spawn area: 99%
+[19:49:10] [Server thread/INFO]: Time elapsed: 29546 ms
+[19:49:10] [Server thread/INFO]: Done (36.021s)! For help, type "help"
+[19:49:20] [User Authenticator #1/INFO]: UUID of player nekkan is b6bde4e3-2d36-441e-a915-ef0c2cef1e0e
+[19:49:20] [Server thread/INFO]: nekkan[/0:0:0:0:0:0:0:1%0:46950] logged in with entity id 176 at (142.5, 65.0, -165.5)
+[19:49:20] [Server thread/INFO]: nekkan joined the game
+[19:49:27] [Server thread/INFO]: Made nekkan a server operator
+[19:49:47] [Server thread/INFO]: [nekkan: Set own game mode to Spectator Mode]
+[19:50:09] [Server thread/INFO]: [nekkan: Applied effect Night Vision to nekkan]
+[19:50:39] [Server thread/INFO]: [nekkan: Set own game mode to Survival Mode]
+[19:50:40] [Server thread/INFO]: [nekkan: Removed every effect from nekkan]
+[19:50:51] [User Authenticator #2/INFO]: UUID of player Leando1 is 27770650-50fd-48a7-8766-94588762e4ad
+[19:50:51] [Server thread/INFO]: Leando1[/0:0:0:0:0:0:0:1%0:53024] logged in with entity id 475 at (145.5, 67.0, -155.5)
+[19:50:51] [Server thread/INFO]: Leando1 joined the game
+[19:51:03] [Server thread/INFO]: [nekkan: Made Leando1 a server operator]
+[19:51:05] [Server thread/INFO]: [Leando1: Teleported Leando1 to nekkan]
+[19:51:21] [Server thread/INFO]: nekkan lost connection: Disconnected
+[19:51:21] [Server thread/INFO]: nekkan left the game
+[19:51:25] [User Authenticator #3/INFO]: UUID of player nekkan is b6bde4e3-2d36-441e-a915-ef0c2cef1e0e
+[19:51:25] [Server thread/INFO]: nekkan[/0:0:0:0:0:0:0:1%0:55264] logged in with entity id 556 at (121.90451350526752, 68.0, -130.30000001192093)
+[19:51:25] [Server thread/INFO]: nekkan joined the game
+[19:52:06] [Server thread/INFO]: Leando1 has made the advancement [Stone Age]
+[19:52:44] [Server thread/INFO]: Leando1 has made the advancement [Getting an Upgrade]
+[19:53:31] [Server thread/INFO]: [nekkan: Teleported nekkan to Leando1]
+[19:53:33] [Server thread/INFO]: [nekkan: Set own game mode to Spectator Mode]
+[19:53:46] [Server thread/INFO]: [nekkan: Set own game mode to Survival Mode]
+[19:54:13] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2458ms or 49 ticks behind
+[19:54:19] [Server thread/INFO]: nekkan has made the advancement [Stone Age]
+[19:54:21] [Server thread/INFO]: [Leando1: Teleported Leando1 to nekkan]
+[19:54:58] [Server thread/INFO]: nekkan has made the advancement [Getting an Upgrade]
+[19:55:39] [Server thread/INFO]: Leando1 has made the advancement [Acquire Hardware]
+[19:55:49] [Server thread/INFO]: nekkan has made the advancement [Acquire Hardware]
+[19:56:26] [Server thread/INFO]: nekkan has made the advancement [Isn't It Iron Pick]
+[19:57:15] [Server thread/INFO]: nekkan has made the advancement [Diamonds!]
+[19:57:15] [Server thread/INFO]: [Leando1: Gave 100 [Diamond] to nekkan]
+[19:57:21] [Server thread/INFO]: [nekkan: Removed 100 items from player nekkan]
+[19:57:27] [Server thread/INFO]: [nekkan: Revoked the advancement [Diamonds!] from nekkan]
+[19:57:33] [Server thread/INFO]: Leando1 has made the advancement [Isn't It Iron Pick]
+[19:59:17] [Server thread/INFO]: [Leando1: Teleported Leando1 to nekkan]
+[20:00:08] [Server thread/INFO]: Leando1 has made the advancement [Monster Hunter]
+[20:01:30] [Server thread/INFO]: nekkan has made the advancement [Monster Hunter]
+[20:01:40] [Server thread/INFO]: [nekkan: Gamerule keepInventory is now set to: true]
+[20:01:43] [Server thread/INFO]: [nekkan: Set own game mode to Spectator Mode]
+[20:01:47] [Server thread/INFO]: [nekkan: Gamerule keepInventory is now set to: false]
+[20:02:03] [Server thread/INFO]: Leando1 has made the advancement [Suit Up]
+[20:02:10] [Server thread/INFO]: [nekkan: Applied effect Night Vision to nekkan]
+[20:02:28] [Server thread/INFO]: [nekkan: Removed every effect from nekkan]
+[20:02:29] [Server thread/INFO]: [nekkan: Set own game mode to Survival Mode]
+[20:02:57] [Server thread/INFO]: Saving the game (this may take a moment!)
+[20:02:57] [Server thread/INFO]: Saved the game
+[20:03:29] [Server thread/INFO]: [Leando1: Teleported Leando1 to nekkan]
+[20:03:51] [Server thread/INFO]: nekkan has made the advancement [Suit Up]
+[20:04:05] [Server thread/INFO]: <Leando1> pcbi
+[20:04:46] [Server thread/INFO]: [nekkan: Created new objective [penisgostoso]]
+[20:04:52] [Server thread/INFO]: [nekkan: Set display slot list to show objective penisgostoso]
+[20:05:10] [Server thread/INFO]: <Leando1> vo joga mais 30 min
+[20:05:18] [Server thread/INFO]: <nekkan> ta
+[20:05:54] [Server thread/INFO]: [nekkan: Set own game mode to Spectator Mode]
+[20:05:56] [Server thread/INFO]: [nekkan: Set own game mode to Survival Mode]
+[20:06:15] [Server thread/INFO]: [Leando1: Gamerule keepInventory is now set to: true]
+[20:06:42] [Server thread/INFO]: [nekkan: Set own game mode to Spectator Mode]
+[20:06:53] [Server thread/INFO]: [Leando1: Teleported Leando1 to nekkan]
+[20:06:57] [Server thread/INFO]: [nekkan: Set own game mode to Survival Mode]
+[20:07:06] [Server thread/INFO]: nekkan has made the advancement [Not Today, Thank You]
+[20:07:29] [Server thread/INFO]: nekkan has made the advancement [Diamonds!]
+[20:07:42] [Server thread/INFO]: [nekkan: Set own game mode to Spectator Mode]
+[20:07:54] [Server thread/INFO]: [nekkan: Teleported nekkan to Leando1]
+[20:07:57] [Server thread/INFO]: [nekkan: Set own game mode to Survival Mode]
+[20:08:41] [Server thread/INFO]: [Leando1: Applied effect Saturation to Leando1]
+[20:08:55] [Server thread/INFO]: [nekkan: Removed every effect from Leando1]
+[20:09:18] [Server thread/INFO]: [Leando1: Applied effect Saturation to Leando1]
+[20:09:23] [Server thread/INFO]: [Leando1: Teleported Leando1 to nekkan]
+[20:10:37] [Server thread/INFO]: Leando1 has made the advancement [Not Today, Thank You]
+[20:10:38] [Server thread/INFO]: nekkan was shot by Skeleton
+[20:10:42] [Server thread/INFO]: Leando1 has made the advancement [Diamonds!]
+[20:10:43] [Server thread/INFO]: [nekkan: Teleported nekkan to Leando1]
+[20:12:13] [Server thread/INFO]: [nekkan: Set own game mode to Spectator Mode]
+[20:12:35] [Server thread/INFO]: [nekkan: Teleported nekkan to 3000000.5, -47.32613567883482, 3000000.5]
+[20:12:54] [Server thread/INFO]: [Leando1: Teleported Leando1 to nekkan]
+[20:12:57] [Server thread/INFO]: [nekkan: Set own game mode to Survival Mode]
+[20:13:00] [Server thread/INFO]: [nekkan: Teleported Leando1 to nekkan]
+[20:13:31] [Server thread/INFO]: nekkan was slain by Leando1
+[20:13:36] [Server thread/INFO]: [nekkan: Teleported nekkan to Leando1]
+[20:13:38] [Server thread/INFO]: nekkan fell out of the world
+[20:13:38] [Server thread/INFO]: [nekkan: Killed nekkan]
+[20:13:41] [Server thread/INFO]: [nekkan: Set own game mode to Spectator Mode]
+[20:13:50] [Server thread/INFO]: [nekkan: Set own game mode to Survival Mode]
+[20:13:51] [Server thread/INFO]: [Leando1: Teleported Leando1 to nekkan]
+[20:14:02] [Server thread/INFO]: [nekkan: Set own game mode to Spectator Mode]
+[20:14:06] [Server thread/INFO]: [nekkan: Set own game mode to Survival Mode]
+[20:14:20] [Server thread/INFO]: [Leando1: Teleported Leando1 to nekkan]
+[20:14:45] [Server thread/INFO]: [nekkan: Set own game mode to Spectator Mode]
+[20:14:56] [Server thread/INFO]: [nekkan: Applied effect Dolphin's Grace to 2 targets]
+[20:15:04] [Server thread/INFO]: [nekkan: Applied effect Conduit Power to 2 targets]
+[20:15:07] [Server thread/INFO]: [nekkan: Set own game mode to Survival Mode]
+[20:15:19] [Server thread/INFO]: [nekkan: Set own game mode to Spectator Mode]
+[20:15:24] [Server thread/INFO]: [nekkan: Teleported nekkan to 159.6750854959607, 230.31714647484205, -137.10939622835724]
+[20:15:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-45, z=-51} fx{x=224, y=-48, z=-46}
+[20:15:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-45, z=-51} fx{x=224, y=-49, z=-47}
+[20:15:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-49, z=-47} fx{x=224, y=-50, z=-47}
+[20:15:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-49, z=-47} fx{x=224, y=-51, z=-47}
+[20:15:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-49, z=-47} fx{x=224, y=-49, z=-48}
+[20:15:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-49, z=-48} fx{x=224, y=-50, z=-48}
+[20:15:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-49, z=-48} fx{x=224, y=-51, z=-48}
+[20:15:30] [Server thread/INFO]: [nekkan: Changed the block at 159, 245, -138]
+[20:15:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-49, z=-48} fx{x=224, y=-52, z=-48}
+[20:15:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-49, z=-48} fx{x=224, y=-53, z=-48}
+[20:15:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-49, z=-48} fx{x=224, y=-52, z=-47}
+[20:15:32] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-53, z=-47}
+[20:15:32] [Server thread/INFO]: [nekkan: Set own game mode to Creative Mode]
+[20:15:33] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-54, z=-47}
+[20:15:34] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-55, z=-47}
+[20:15:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-55, z=-46}
+[20:15:35] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-56, z=-46}
+[20:15:37] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-56, z=-47}
+[20:15:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-54, z=-46}
+[20:15:38] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-53, z=-46}
+[20:15:39] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-55, z=-45}
+[20:15:40] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-56, z=-45}
+[20:15:45] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-57, z=-47}
+[20:15:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-57, z=-48}
+[20:15:46] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-58, z=-47}
+[20:15:47] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-59, z=-47}
+[20:15:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-57, z=-46}
+[20:15:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-58, z=-46}
+[20:15:48] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-59, z=-46}
+[20:15:49] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-52, z=-47} fx{x=224, y=-60, z=-46}
+[20:15:50] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-61, z=-46} fx{x=224, y=-60, z=-47}
+[20:16:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-61, z=-47} fx{x=224, y=-59, z=-45}
+[20:16:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-61, z=-47} fx{x=224, y=-60, z=-45}
+[20:16:01] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-61, z=-47} fx{x=224, y=-59, z=-44}
+[20:16:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-61, z=-47} fx{x=223, y=-59, z=-45}
+[20:16:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-61, z=-47} fx{x=223, y=-59, z=-46}
+[20:16:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=223, y=-59, z=-46} fx{x=222, y=-59, z=-46}
+[20:16:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=223, y=-59, z=-46} fx{x=223, y=-58, z=-46}
+[20:16:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=223, y=-59, z=-46} fx{x=223, y=-59, z=-47}
+[20:16:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=223, y=-59, z=-47} fx{x=223, y=-58, z=-47}
+[20:16:02] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=223, y=-58, z=-47} fx{x=223, y=-57, z=-46}
+[20:16:03] [Server thread/INFO]: [nekkan: Teleported nekkan to 159.87449257119974, 512.0, -136.88079659714217]
+[20:16:04] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=223, y=-57, z=-46} fx{x=223, y=-57, z=-47}
+[20:16:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=223, y=-57, z=-46} fx{x=223, y=-56, z=-47}
+[20:16:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=223, y=-57, z=-46} fx{x=223, y=-56, z=-48}
+[20:16:05] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=223, y=-56, z=-48} fx{x=222, y=-56, z=-48}
+[20:16:11] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=222, y=-56, z=-48} fx{x=224, y=-58, z=-48}
+[20:16:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=222, y=-56, z=-48} fx{x=224, y=-58, z=-49}
+[20:16:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=222, y=-56, z=-48} fx{x=224, y=-59, z=-48}
+[20:16:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=222, y=-56, z=-48} fx{x=223, y=-59, z=-48}
+[20:16:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=222, y=-56, z=-48} fx{x=222, y=-59, z=-47}
+[20:16:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=222, y=-56, z=-48} fx{x=221, y=-59, z=-46}
+[20:16:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=222, y=-56, z=-48} fx{x=222, y=-59, z=-45}
+[20:16:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=222, y=-56, z=-48} fx{x=223, y=-59, z=-44}
+[20:16:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=222, y=-56, z=-48} fx{x=223, y=-58, z=-45}
+[20:16:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=222, y=-56, z=-48} fx{x=224, y=-58, z=-45}
+[20:16:12] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-58, z=-45} fx{x=225, y=-59, z=-46}
+[20:16:14] [Server thread/INFO]: [nekkan: Teleported nekkan to Leando1]
+[20:16:18] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-58, z=-45} fx{x=222, y=-58, z=-46}
+[20:16:18] [Server thread/INFO]: [nekkan: Set own game mode to Survival Mode]
+[20:16:19] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-58, z=-45} fx{x=221, y=-58, z=-46}
+[20:16:20] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-58, z=-45} fx{x=220, y=-58, z=-46}
+[20:16:21] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-58, z=-45} fx{x=221, y=-58, z=-47}
+[20:16:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-58, z=-45} fx{x=220, y=-58, z=-47}
+[20:16:22] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-58, z=-45} fx{x=221, y=-57, z=-47}
+[20:16:23] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-58, z=-45} fx{x=221, y=-57, z=-46}
+[20:16:23] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=143, y=-17, z=-148} fx{x=221, y=-60, z=-46}
+[20:16:23] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=143, y=-17, z=-148} fx{x=222, y=-60, z=-46}
+[20:16:23] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=143, y=-17, z=-148} fx{x=222, y=-61, z=-46}
+[20:16:24] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=224, y=-58, z=-45} fx{x=220, y=-57, z=-46}
+[20:16:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=221, y=-61, z=-46} fx{x=222, y=-60, z=-45}
+[20:16:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=221, y=-61, z=-46} fx{x=222, y=-60, z=-44}
+[20:16:25] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=222, y=-60, z=-44} fx{x=223, y=-60, z=-45}
+[20:16:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=223, y=-60, z=-45} fx{x=223, y=-60, z=-46}
+[20:16:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=220, y=-57, z=-47} fx{x=221, y=-59, z=-47}
+[20:16:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=223, y=-60, z=-45} fx{x=225, y=-59, z=-45}
+[20:16:26] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=223, y=-60, z=-45} fx{x=226, y=-59, z=-46}
+[20:16:27] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=226, y=-59, z=-46} fx{x=223, y=-60, z=-47}
+[20:16:27] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=220, y=-57, z=-47} fx{x=220, y=-56, z=-47}
+[20:16:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=226, y=-59, z=-46} fx{x=223, y=-60, z=-48}
+[20:16:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=226, y=-59, z=-46} fx{x=223, y=-60, z=-49}
+[20:16:28] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=223, y=-60, z=-49} fx{x=222, y=-59, z=-48}
+[20:16:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=222, y=-59, z=-48} fx{x=222, y=-59, z=-49}
+[20:16:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=222, y=-59, z=-48} fx{x=222, y=-58, z=-47}
+[20:16:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=222, y=-58, z=-47} fx{x=222, y=-58, z=-48}
+[20:16:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=222, y=-58, z=-48} fx{x=223, y=-58, z=-48}
+[20:16:29] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=220, y=-57, z=-47} fx{x=221, y=-57, z=-45}
+[20:16:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=220, y=-57, z=-47} fx{x=221, y=-58, z=-45}
+[20:16:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=220, y=-57, z=-47} fx{x=222, y=-58, z=-45}
+[20:16:30] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=220, y=-57, z=-47} fx{x=221, y=-58, z=-44}
+[20:16:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=220, y=-57, z=-47} fx{x=221, y=-59, z=-45}
+[20:16:31] [Server thread/WARN]: Mismatch in destroy block pos: fx{x=221, y=-59, z=-45} fx{x=222, y=-59, z=-44}
+[20:16:31] [Server thread/INFO]: [nekkan: Removed every effect from 2 targets]
+[20:16:38] [Server thread/INFO]: [nekkan: Applied effect Conduit Power to 2 targets]
+[20:16:44] [Server thread/INFO]: [nekkan: Applied effect Dolphin's Grace to 2 targets]
+[20:16:53] [Server thread/INFO]: [nekkan: Removed every effect from nekkan]
+[20:16:55] [Server thread/INFO]: [nekkan: Applied effect Conduit Power to 2 targets]
+[20:16:57] [Server thread/INFO]: [Leando1: Set own game mode to Spectator Mode]
+[20:16:59] [Server thread/INFO]: [nekkan: Removed every effect from nekkan]
+[20:17:01] [Server thread/INFO]: [nekkan: Applied effect Conduit Power to 2 targets]
+[20:17:06] [Server thread/INFO]: [nekkan: Applied effect Dolphin's Grace to 2 targets]
+[20:17:07] [Server thread/INFO]: [nekkan: Teleported nekkan to Leando1]
+[20:17:15] [Server thread/INFO]: [nekkan: Applied enchantment Silk Touch to nekkan's item]
+[20:17:36] [Server thread/INFO]: [nekkan: Set own game mode to Spectator Mode]
+[20:17:47] [Server thread/WARN]: Leando1 moved too quickly! 4.358078354188649,-1.2806825593491258,9.340738407423629
+[20:17:59] [Server thread/INFO]: [nekkan: Teleported nekkan to 639.4010270415552, 9.50322079197237, 506.46013490233537]
+[20:18:12] [Server thread/INFO]: [nekkan: Set own game mode to Survival Mode]
+[20:18:24] [Server thread/INFO]: [Leando1: Teleported Leando1 to nekkan]
+[20:18:30] [Server thread/INFO]: [Leando1: Set own game mode to Survival Mode]
+[20:19:15] [Server thread/WARN]: nekkan moved too quickly! 7.0594322755842995,4.0,6.043172452700446
+[20:19:15] [Server thread/WARN]: Leando1 moved too quickly! 8.832632088597393,2.9986640208878512,3.9514700479875273
+[20:19:15] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2755ms or 55 ticks behind
+[20:19:35] [Server thread/INFO]: Leando1 has made the advancement [Cover Me With Diamonds]
+[20:19:50] [Server thread/INFO]: [Leando1: Teleported Leando1 to nekkan]
+[20:20:39] [Server thread/INFO]: [nekkan: Teleported nekkan to Leando1]
+[20:20:50] [Server thread/INFO]: [nekkan: Gave 64 [Bread] to 2]
+[20:21:03] [Server thread/INFO]: [nekkan: Saved the game]
+[20:21:15] [Server thread/INFO]: [nekkan: Set own game mode to Spectator Mode]
+[20:21:15] [Server thread/INFO]: [Leando1: Set own game mode to Spectator Mode]
+[20:21:26] [Server thread/INFO]: [nekkan: Applied effect Night Vision to 2 targets]
+[20:21:35] [Server thread/INFO]: [Leando1: Set own game mode to Survival Mode]
+[20:21:36] [Server thread/INFO]: [nekkan: Set own game mode to Survival Mode]
+[20:21:59] [Server thread/INFO]: [nekkan: Teleported nekkan to Leando1]
+[20:22:07] [Server thread/INFO]: [nekkan: Changed the block at 451, -20, 484]
+[20:22:10] [Server thread/INFO]: [Leando1: Set own game mode to Spectator Mode]
+[20:22:16] [Server thread/INFO]: nekkan has made the advancement [Cover Me With Diamonds]
+[20:22:31] [Server thread/INFO]: [nekkan: Set own game mode to Spectator Mode]
+[20:22:43] [Server thread/INFO]: [Leando1: Teleported Leando1 to nekkan]
+[20:22:47] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2037ms or 40 ticks behind
+[20:22:49] [Server thread/INFO]: [nekkan: Set own game mode to Survival Mode]
+[20:22:54] [Server thread/INFO]: [Leando1: Set own game mode to Creative Mode]
+[20:22:55] [Server thread/INFO]: [nekkan: Set own game mode to Spectator Mode]
+[20:22:59] [Server thread/INFO]: [nekkan: Saved the game]
+[20:23:07] [Server thread/INFO]: <nekkan> goat
+[20:23:08] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5773ms or 115 ticks behind
+[20:23:21] [Server thread/INFO]: [Leando1: Set own game mode to Spectator Mode]
+[20:23:32] [Server thread/INFO]: [Leando1: Set own game mode to Creative Mode]
+[20:23:39] [Server thread/INFO]: [nekkan: Set own game mode to Survival Mode]
+[20:23:41] [Server thread/INFO]: [Leando1: Teleported Leando1 to nekkan]
+[20:23:48] [Server thread/INFO]: [Leando1: Set own game mode to Survival Mode]
+[20:24:45] [Server thread/INFO]: [nekkan: Teleported nekkan to Leando1]
+[20:25:42] [Server thread/INFO]: [nekkan: Teleported nekkan to Leando1]
+[20:26:39] [Server thread/INFO]: [nekkan: Summoned new Drowned]
+[20:26:56] [Server thread/INFO]: [nekkan: Summoned new Drowned]
+[20:26:56] [Server thread/INFO]: [nekkan: Summoned new Drowned]
+[20:26:56] [Server thread/INFO]: [nekkan: Summoned new Drowned]
+[20:26:57] [Server thread/INFO]: [nekkan: Summoned new Drowned]
+[20:27:38] [Server thread/INFO]: [nekkan: Gave 1 [Trident] to 2]
+[20:27:45] [Server thread/INFO]: Leando1 has made the advancement [A Throwaway Joke]
+[20:28:01] [Server thread/INFO]: nekkan was slain by Leando1
+[20:28:11] [Server thread/INFO]: Saving the game (this may take a moment!)
+[20:28:12] [Server thread/INFO]: Saved the game
+[20:28:14] [Server thread/INFO]: Stopping the server
+[20:28:14] [Server thread/INFO]: Stopping server
+[20:28:14] [Server thread/INFO]: Saving players
+[20:28:14] [Server thread/INFO]: Leando1 lost connection: Internal Exception: java.lang.StackOverflowError
+[20:28:14] [Server thread/INFO]: Leando1 left the game
+[20:28:14] [Server thread/INFO]: Saving worlds
+[20:28:14] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[20:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:28:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[20:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:28:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[20:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[20:28:20] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[20:28:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[20:28:22] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
